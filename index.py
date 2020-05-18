@@ -12,7 +12,8 @@ ui,_ = loadUiType('library.ui')
 
 login,_ = loadUiType('login.ui')
 
-# cherif essai
+# cherif essai yazen
+#  joury and Yazen
 
 class Login(QWidget , login):
     def __init__(self):
